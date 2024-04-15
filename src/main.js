@@ -1,4 +1,4 @@
-import { createApp } from 'vue'
-import App from './AppTemperatureMinimal.vue'
+import { createApp } from 'vue';
+import App from './AppTemperature.vue';
 
-createApp(App).mount('#app')
+createApp(App).mount('#app');
